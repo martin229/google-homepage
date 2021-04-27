@@ -1,0 +1,32 @@
+body {
+    display: block;
+    margin: auto;
+    padding: 0;
+}
+
+img {
+    display: flex;
+    max-width: 500px;
+    margin: auto;
+    position: relative;
+    margin-top: 10rem;
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+
+input {
+    margin: 20px !important;
+    width: 500px;
+    height: 40px;
+    border: solid 0.5px lightgray;
+    border-radius: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+button {
+    margin: 20px !important;
+}
